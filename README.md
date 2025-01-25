@@ -3,4 +3,4 @@
 
 sudo openvpn nameofyourvpnfile
 
-set_target_ip 127.0.0.1
+target_ip 127.0.0.1
